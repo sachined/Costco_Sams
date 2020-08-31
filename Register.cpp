@@ -1,5 +1,5 @@
 /*
-Lab 2 - Store that handles shopping carts
+Store that handles shopping carts
 Authored by Sachin Nediyanchath
 Submission date : 06/29/2018
 */
