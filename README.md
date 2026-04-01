@@ -1,22 +1,17 @@
 ## 4. Costco_Sams
-
 # 🛒 Costco & Sam's Club — Cash Register Simulation
 
 A C++ simulation of a warehouse store cash register system, complete with barcode scanning, product lookups, and a customer queue — using a range of STL data structures.
 
 ## System Overview
-
+```
 bc3of9.txt       ← barcode-to-letter key (Code 39 encoding)
-
 Products (XML)   ← product list with price details
-
 Cart (XML)       ← individual cart with product barcodes
-
 Carts (XML)      ← queue of customer carts
     ↓
-    
 Cash register logic: scan barcode → look up product → total cart → process queue
-
+```
 ## Data Structures Used
 | Structure | Purpose |
 |-----------|---------|
