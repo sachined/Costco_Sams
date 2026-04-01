@@ -1,4 +1,3 @@
-## 4. Costco_Sams
 # 🛒 Costco & Sam's Club — Cash Register Simulation
 
 A C++ simulation of a warehouse store cash register system, complete with barcode scanning, product lookups, and a customer queue — using a range of STL data structures.
